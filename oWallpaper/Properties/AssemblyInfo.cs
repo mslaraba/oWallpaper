@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("oWallpaper")]
+[assembly: AssemblyTitle("WALL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("oWallpaper")]
+[assembly: AssemblyProduct("WALL")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6fb06f3a-1759-44b4-875a-62e1c1a5d4bb")]
+[assembly: Guid("d70d60cf-ee75-4f0a-8604-e749aa8515c3")]
 
 // Version information for an assembly consists of the following four values:
 //

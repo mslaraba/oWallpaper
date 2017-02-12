@@ -5,6 +5,7 @@ Auto change your wallpaper everyday for our picks
 * Clone the repo :  `https://github.com/mslaraba/oWallpaper.git` 
 * Compile using **Visual Studio**, **Xamarin Studio** or **csc compiler**
 * Run the exe and enjoy
+
 ## Goals
 * Make it run on all windows versions XP/7/8.x/10
 * Make it run on Linux and MacOS (if possible)
@@ -14,6 +15,7 @@ Auto change your wallpaper everyday for our picks
 * Create UI
 * Add Tests
 * Create a github page and a Setup
+
 ## ChangeLog
 ### 12/02/2017
 - First working copy
